@@ -26,7 +26,7 @@ to run this project, you need the following:
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd your-repo-name
+    cd YouTubeAudioTranscriber
     ```
 3.  Install dependencies:
     ```bash
