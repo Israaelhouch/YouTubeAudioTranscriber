@@ -22,7 +22,7 @@ to run this project, you need the following:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/Israaelhouch/YouTubeAudioTranscriber.git
     ```
 2.  Navigate to the project directory:
     ```bash
